@@ -1,2 +1,4 @@
 first line in now.txt file from master branch 
-editing in updates branch 
+editing in updates branch
+adding this line in branch master for merging test purpose only , may remove
+in some other branches to test fast forward merging tool
