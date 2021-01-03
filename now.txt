@@ -2,9 +2,19 @@ first line in now.txt file from master branch
 sdsdsddddddddddddddddddddsdsdk
 nediting and modifying this file whole in updates branch for merging conflict
 test on same lines, to same file, but in different branch to make conflict
+<<<<<<< HEAD
 occur , 
 ddasdadadasdadasdadsdadasdflkajdfajsdlfajsdkjflka
 adkaksjdfalskdf
 sfdalkdf
 adsjalsda
 dfj;iting in updates branch
+=======
+occur , adadkalkkkkkkkkkkkkkkkal
+akdalkdlsad
+akdasdlad
+kasldkk
+kl
+adlakd
+ting in updates branch
+>>>>>>> very-bad
